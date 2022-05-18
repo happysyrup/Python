@@ -5,11 +5,11 @@
 ## Chapter 1 Preliminary knowledge of Data Acquisition
 	
 ### 1.1 Definition of data collection, application value, division of data types and scope
-		https://www.bilibili.com/video/BV1rR4y1c7wP/
+https://www.bilibili.com/video/BV1rR4y1c7wP/
 ### 1.2 Data collection process
-		https://www.bilibili.com/video/BV1wr4y147Qp/
+https://www.bilibili.com/video/BV1wr4y147Qp/
 ### 1.3 Data collection method
-		https://www.bilibili.com/video/BV1YZ4y187BH/
+	https://www.bilibili.com/video/BV1YZ4y187BH/
 ### 1.4 Data Collection Example
 		https://www.bilibili.com/video/BV1UR4y1c71m/
 ## Chapter 2 Network data analysis
