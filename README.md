@@ -1,14 +1,17 @@
 # Python
-Python Programing Contents，SDVCI-ISE Pakistan 【Contents】
+# Python Programing Contents，SDVCI-ISE Pakistan 【Contents】
 ---
-<br>
 
-## Chapter 1 Preliminary knowledge of data acquisition
-	1.1 Definition of data collection, application value, division of data types and scope
-		*https://www.bilibili.com/video/BV1rR4y1c7wP/*
-	1.2 Data collection process
-	1.3 Data collection method
-	1.4 Data Collection Example
+## Chapter 1 Preliminary knowledge of Data Acquisition
+	
+### 1.1 Definition of data collection, application value, division of data types and scope
+		https://www.bilibili.com/video/BV1rR4y1c7wP/
+### 1.2 Data collection process
+		https://www.bilibili.com/video/BV1wr4y147Qp/
+### 1.3 Data collection method
+		https://www.bilibili.com/video/BV1YZ4y187BH/
+### 1.4 Data Collection Example
+		https://www.bilibili.com/video/BV1UR4y1c71m/
 ## Chapter 2 Network data analysis
 	2.1 The concept, development history and function of computer network
 	2.2 Classification of computer networks
@@ -75,6 +78,6 @@ Python Programing Contents，SDVCI-ISE Pakistan 【Contents】
 	9.4 The business system development model under the J2EE framework
 	9.5 Create a SpringBoot project
 
-## Chapter 10 Business system log data collection
-## Chapter 11 Database data collection
+### Chapter 10 Business system log data collection
+### Chapter 11 Database data collection
 
