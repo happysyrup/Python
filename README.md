@@ -5,6 +5,7 @@ Python Programing Contents，SDVCI-ISE Pakistan 【Contents】
 
 ## Chapter 1 Preliminary knowledge of data acquisition
 	1.1 Definition of data collection, application value, division of data types and scope
+		*https://www.bilibili.com/video/BV1rR4y1c7wP/*
 	1.2 Data collection process
 	1.3 Data collection method
 	1.4 Data Collection Example
