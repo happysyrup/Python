@@ -1,5 +1,5 @@
-# Python
-# Python Programing Contents，SDVCI-ISE Pakistan 【Contents】
+# Python Programing 【Contents】
+# SDVCI-ISE Pakistan
 ---
 
 ## Chapter 1 Preliminary knowledge of Data Acquisition
