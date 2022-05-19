@@ -48,7 +48,7 @@ https://www.bilibili.com/video/BV1T3411P78X/
 
 ## Chapter 4 Making MOOC Homepage
 ### 4.1 Web page overview HTML basic structure, syntax and common tags
-
+updating
 ### 4.2 Tables, frames, and form elements for basic HTML learning
 https://www.bilibili.com/video/BV18U4y117PC/
 ### 4.3 Analysis MOOC Homepage
@@ -72,7 +72,7 @@ https://www.bilibili.com/video/BV1934y177kc/
 ### 5.2 Extracting web page data using XPath
 https://www.bilibili.com/video/BV1PP4y1F7Lw/
 ### 5.3 Regular expression concept, module function method, basic symbols
-
+updating
 ### 5.4 Extract web page data using regular
 https://www.bilibili.com/video/BV1Ua411J7XZ/
 
@@ -116,7 +116,7 @@ https://www.bilibili.com/video/BV1zu41167fy/
 
 ## Chapter 8 Project practice - web crawler
 ### 8.1 Crawling mobile phone data
-
+updating
 ### 8.2 Crawling Inspur ViewSonic Information Website
 https://www.bilibili.com/video/BV1Cg411d7P3/
 
